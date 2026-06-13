@@ -36,7 +36,8 @@ Berikut adalah bukti bahwa LangGraph berhasil melakukan percabangan alur kerja s
 
 <img width="1370" height="679" alt="image" src="https://github.com/user-attachments/assets/645c54a2-71cf-4a75-9ffd-b9fec5d914ac" />
 
-<img width="1372" height="472" alt="image" src="https://github.com/user-attachments/assets/2ac0793a-bd0e-4ed7-84f9-9903c3ec32e4" />
+<img width="1389" height="465" alt="image" src="https://github.com/user-attachments/assets/a97d4d2a-f33c-47af-94c2-3c64415caa89" />
+
 
 ### B. Dashboard Monitoring LangSmith
 Berikut adalah bukti pelacakan visual graf dan detail token/latency yang terekam otomatis di platform LangSmith:
