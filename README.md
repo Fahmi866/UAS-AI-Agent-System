@@ -7,6 +7,10 @@
 
 Proyek ini adalah sistem **AI Agent pintar berbasis NLP/LLM** yang dibangun untuk memenuhi tugas **Ujian Akhir Semester (UAS)**. Sistem ini mengintegrasikan ekosistem AI modern dari LangChain untuk otomatisasi penanganan keluhan pelanggan secara dinamis menggunakan analisis sentimen waktu nyata (*real-time*).
 
+NAMA : MUHAMMAD ZULFAHMI
+NPM : 233510348
+KELAS : 6D
+
 ---
 
 ## 📌 1. Detail Proyek & Arsitektur
