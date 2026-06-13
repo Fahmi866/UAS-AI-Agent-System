@@ -34,9 +34,9 @@ Sistem ini dibangun atas **3 Library Wajib** dengan peran sebagai berikut:
 ### A. Demo Eksekusi Terminal (VS Code)
 Berikut adalah bukti bahwa LangGraph berhasil melakukan percabangan alur kerja secara dinamis di terminal local:
 
-<img width="1370" height="679" alt="image" src="https://github.com/user-attachments/assets/64c54a2b-71cf-4a75-9ffd-b9fec5d914ac" />
+<img width="1364" height="639" alt="image" src="https://github.com/user-attachments/assets/ec94daa8-4713-4c9a-8f07-5ba26ea03520" />
+<img width="1373" height="537" alt="image" src="https://github.com/user-attachments/assets/b188282d-9d41-4810-9456-fb2251bf99be" />
 
-<img width="1389" height="465" alt="image" src="https://github.com/user-attachments/assets/a97d4d2a-f33c-47af-94c2-3c64415caa89" />
 
 ### B. Dashboard Monitoring LangSmith
 Berikut adalah bukti pelacakan visual graf dan detail token/latency yang terekam otomatis di platform LangSmith:
